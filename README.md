@@ -2,7 +2,7 @@
 ## Nama Aplikasi : 
 #### Movie 
 ## Link File APK Release : 
-#### https://drive.google.com/file/d/0B0KOTymPA8rAZUZCTDJHRzZYSjA/view 
+#### https://drive.google.com/open?id=0ByvNKAqdFQuyMEFGR2VfUWZhZW8
 ## Identitas Siswa : 
 #### Nama lengkap : Arkhab Maulana Uzlahbillah
 #### Kelas/No urut : XI RPL 4/07

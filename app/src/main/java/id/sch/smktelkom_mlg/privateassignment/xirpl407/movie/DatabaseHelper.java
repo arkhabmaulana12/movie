@@ -1,13 +1,14 @@
-/**
- * Created by ALAN on 12/06/2017.
- */
-
+package id.sch.smktelkom_mlg.privateassignment.xirpl407.movie;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
+
+/**
+ * Created by ALAN on 13/06/2017.
+ */
 
 public class DatabaseHelper extends SQLiteOpenHelper {
     public static int DATABASE_VERSION = 1;
